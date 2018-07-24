@@ -1,2 +1,2 @@
-# compilations
-compilations for CreaWave Studios
+Колелкция подборок по разным категориям
+https://github.com/TeoDoe777/compilations/wiki
